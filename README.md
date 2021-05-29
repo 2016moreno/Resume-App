@@ -67,7 +67,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Simple project to get better at UI skills in flutter to make a good looking application.
+Simple project to get better at UI skills in Flutter to make a good looking application.
 
 ### Built With
 
